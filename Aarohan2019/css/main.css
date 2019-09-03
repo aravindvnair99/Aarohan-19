@@ -3912,7 +3912,7 @@ a.slide_btn {
 }
 /*End of Countdown*/
 /*Start of Maps*/
-..map-responsive {
+.map-responsive {
 	overflow: hidden;
 	padding-bottom: 56.25%;
 	position: relative;
