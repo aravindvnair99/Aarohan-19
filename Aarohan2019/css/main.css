@@ -55,6 +55,12 @@
  * # base style overrides
  *
  * ------------------------------------------------------------------- */
+
+p.justify-text {
+	text-align: justify;
+}
+
+
 html {
 	font-size: 10px;
 }
