@@ -1278,7 +1278,7 @@ input::-moz-focus-inner {
 	margin-bottom: 2.1rem;
 }
 .subhead::before {
-	content: '/ ';
+	content: '';
 }
 
 /* ------------------------------------------------------------------- 
